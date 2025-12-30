@@ -1,28 +1,3 @@
-# CS515 Complete Project Portfolio - Fall 2025
-
-**Student:** Ilayaraj Rajmohan (irajmohan@binghamton.edu)  
-**Partner:** Sanjitha Praveen (spraveen@binghamton.edu)  
-**Course:** CS515 - Social Media Data Science Pipelines  
-**Instructor:** Professor Jeremy Blackburn  
-**University:** Binghamton University
-
-## Overview
-
-This repository contains all three projects from CS515 Fall 2025:
-
-1. **Project 1:** Social media data collection pipeline (4chan + Bluesky)
-2. **Project 2:** Dataset measurements and toxicity analysis
-3. **Project 3:** Interactive analytics dashboard
-
-## Project Structure
-```
-cs515_complete_backup/
-├── project1_crawler/          # Data collection system
-├── project2_analysis/         # Measurement experiments
-├── project3_dashboard/        # Interactive web dashboard
-├── project3_working_files/    # Development files
-└── README.md                  # This file
-```
 
 ## Project 1: Data Collection Pipeline
 
@@ -104,15 +79,4 @@ http://localhost:5000
 - Python cache cleaned
 - Database credentials must be configured locally
 
-## Academic Honesty
 
-All code is original work by Ilayaraj Rajmohan and Sanjitha Praveen.  
-See individual HONESTY.md files in each project directory.
-
-## License
-
-Academic project - Binghamton University CS515 Fall 2025
-
----
-
-**Last Updated:** December 18, 2025
