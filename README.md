@@ -44,24 +44,6 @@ Web-based analytics dashboard answering three research questions:
 - LDA topic modeling (scikit-learn)
 - PostgreSQL live data
 
-**URL:** Run locally via SSH port forwarding
-
-## Setup & Running
-
-See individual project README files in each directory for detailed instructions.
-
-### Quick Start (Project 3 Dashboard)
-```bash
-# SSH with port forwarding
-ssh -L 5000:localhost:5000 irajmohan@128.226.29.129
-
-# Start dashboard
-cd project3_dashboard
-python3 app_flask_fast.py
-
-# Open browser
-http://localhost:5000
-```
 
 ## Data Summary
 
@@ -72,11 +54,5 @@ http://localhost:5000
 | Bluesky | 160,411 | Nov 1-14, 2025 |
 | **Total** | **3,958,918** | |
 
-## Important Notes
-
-- `.env` files removed (contain sensitive credentials)
-- CSV data files removed (too large for Git)
-- Python cache cleaned
-- Database credentials must be configured locally
 
 
